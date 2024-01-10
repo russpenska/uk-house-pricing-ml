@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression 
 
 parser = argparse.ArgumentParser(
-                    prog='scratchpad',
+                    prog='linear-regression-on-age',
                     description='',
                     epilog='')
 
